@@ -4,7 +4,7 @@
 ### Student Details
 - **Name:** P. NANDU VARDHAN
 - **Register Number:** 192425067
-- **Department:** Computer Science and Engineering
+- **Department:** AI&ML
 
 ### Development Environment
 - **IDE:** Visual Studio Code (VS Code / Antigravity IDE)
